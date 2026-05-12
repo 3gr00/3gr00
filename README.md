@@ -1,7 +1,6 @@
 # 👋 Hola, soy Enrique!
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en **ValoraClick**
 - ⚡ Me especializo en **React, TypeScript y Clean Architecture**
 - 📬 Contáctame en: enriquegr1513@gmail.com
 
