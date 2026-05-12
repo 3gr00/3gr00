@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Enrique!
 
-<!--
-**3gr00/3gr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+- 🔭 Actualmente trabajando en **ValoraClick**
+- ⚡ Me especializo en **React, TypeScript y Clean Architecture**
+- 📬 Contáctame en: enriquegr1513@gmail.com
 
-Here are some ideas to get you started:
+### 🛠️ Mi Stack Tecnológico
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Mis Estadísticas
+![Stats de Enrique](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
