@@ -34,10 +34,10 @@
 EmoVest convierte el diario de trading en inteligencia emocional accionable. Registra tus operaciones, escribe cómo te sientes y la IA detecta qué emociones están afectando tus decisiones.
 * **Stack:** React, Tailwind CSS, Vite, Python, pnpm.
 * **Key Features:** Estado global optimizado, animaciones fluidas, arquitectura limpia.
-🔗 [Código Fuente](https://github.com/...](https://github.com/ELROKA02/EmoVest))
+🔗 [Código Fuente]((https://github.com/ELROKA02/EmoVest))
 
 ### 🚀 ValoraClick
 ValoraClick | Sistema inteligente de gestión y análisis de encuestas educativas. > Plataforma web diseñada para optimizar la recopilación de feedback en entornos formativos.
 * **Stack:** React, Tailwind CSS, Vite, Java, pnpm.
 * **Key Features:** Estado global optimizado, arquitectura hexagonal limpia.
-🔗 [Código Fuente]([https://github.com/...](https://github.com/ELROKA02/EmoVest](https://github.com/Proyectos-de-practicas-de-ZaitecM26/isma-daw-valoraclick-front))
+🔗 [Código Fuente]([https://github.com/...]((https://github.com/Proyectos-de-practicas-de-ZaitecM26/isma-daw-valoraclick-front))
