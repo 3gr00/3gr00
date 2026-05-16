@@ -2,10 +2,13 @@
 
 ## 💫 Sobre mí:
 
-🌱 Actualmente estoy aprendiendo: Advanced TypeScript, Testing (Vitest/Jest) y Arquitectura hexagonal Limpia.
-🤝 Busco colaborar en: Componentes de UI/UX basados en React y proyectos de Código Abierto (Open Source).
-💬 Escríbeme para: Arquitectura web, revisiones de código (code reviews) o proyectos enfocados en el Frontend.
-⚡ Dato curioso: Creo firmemente que el "Clean Code" (Código Limpio) es una carta de amor para el compañero que tendrá que mantener tu código el año que viene.
+<p>🌱 Actualmente estoy aprendiendo: Advanced TypeScript, Testing (Vitest/Jest) y Arquitectura hexagonal Limpia.</p>
+<p>🤝 Busco colaborar en: Componentes de UI/UX basados en React y proyectos de Código Abierto (Open Source).</p>
+<p>💬 Escríbeme para: Arquitectura web, revisiones de código (code reviews) o proyectos enfocados en el Frontend.</p>
+<p>⚡ Dato curioso: Creo firmemente que el "Clean Code" (Código Limpio) es una carta de amor para el compañero que tendrá que mantener tu código el año que viene.</p>
+
+## Contacto:
+Correo: enriquegr1513@gmailcom
 
 ---
 
