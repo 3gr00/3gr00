@@ -7,7 +7,7 @@
 <p>💬 Escríbeme para: Arquitectura web, revisiones de código (code reviews) o proyectos enfocados en el Frontend.</p>
 <p>⚡ Dato curioso: Creo firmemente que el "Clean Code" (Código Limpio) es una carta de amor para el compañero que tendrá que mantener tu código el año que viene.</p>
 
-## Contacto:
+## 👨🏼‍💻 Contacto:
 Correo: 3gr00.contact@gmail.com
 
 ---
