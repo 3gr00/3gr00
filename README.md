@@ -39,5 +39,5 @@ EmoVest convierte el diario de trading en inteligencia emocional accionable. Reg
 ### 🚀 ValoraClick
 ValoraClick | Sistema inteligente de gestión y análisis de encuestas educativas. > Plataforma web diseñada para optimizar la recopilación de feedback en entornos formativos.
 * **Stack:** React, Tailwind CSS, Vite, Java, pnpm.
-* * **Key Features:** Estado global optimizado, arquitectura hexagonal limpia.
-  * 🔗 [Código Fuente]([https://github.com/...](https://github.com/ELROKA02/EmoVest](https://github.com/Proyectos-de-practicas-de-ZaitecM26/isma-daw-valoraclick-front))
+* **Key Features:** Estado global optimizado, arquitectura hexagonal limpia.
+🔗 [Código Fuente]([https://github.com/...](https://github.com/ELROKA02/EmoVest](https://github.com/Proyectos-de-practicas-de-ZaitecM26/isma-daw-valoraclick-front))
