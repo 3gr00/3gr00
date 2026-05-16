@@ -1,6 +1,6 @@
-👋 ¡Hola, soy Enrique!
+# 👋 ¡Hola, soy Enrique!
 
-💫 Sobre mí:
+## 💫 Sobre mí:
 
 🌱 Actualmente estoy aprendiendo: Advanced TypeScript, Testing (Vitest/Jest) y Arquitectura hexagonal Limpia.
 🤝 Busco colaborar en: Componentes de UI/UX basados en React y proyectos de Código Abierto (Open Source).
