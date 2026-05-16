@@ -22,8 +22,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3gr00&show_icons=true&theme=tokyonight" alt="Enrique's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3gr00&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=3gr00&show_icons=true&theme=tokyonight" alt="Enrique's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=3gr00&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -32,12 +32,14 @@
 
 ### 🚀 Emovest
 EmoVest convierte el diario de trading en inteligencia emocional accionable. Registra tus operaciones, escribe cómo te sientes y la IA detecta qué emociones están afectando tus decisiones.
+
 * **Stack:** React, Tailwind CSS, Vite, Python, pnpm.
 * **Key Features:** Estado global optimizado, animaciones fluidas, arquitectura limpia.
-🔗 [Código Fuente]((https://github.com/ELROKA02/EmoVest))
+* 🔗 [Código Fuente](https://github.com/ELROKA02/EmoVest)
 
 ### 🚀 ValoraClick
-ValoraClick | Sistema inteligente de gestión y análisis de encuestas educativas. > Plataforma web diseñada para optimizar la recopilación de feedback en entornos formativos.
+ValoraClick | Sistema inteligente de gestión y análisis de encuestas educativas. Plataforma web diseñada para optimizar la recopilación de feedback en entornos formativos.
+
 * **Stack:** React, Tailwind CSS, Vite, Java, pnpm.
 * **Key Features:** Estado global optimizado, arquitectura hexagonal limpia.
-🔗 [Código Fuente]([https://github.com/...]((https://github.com/Proyectos-de-practicas-de-ZaitecM26/isma-daw-valoraclick-front))
+* 🔗 [Código Fuente](https://github.com/Proyectos-de-practicas-de-ZaitecM26/isma-daw-valoraclick-front)
