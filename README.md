@@ -21,11 +21,9 @@
 
 ### 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=3gr00&show_icons=true&theme=radical" alt="Enrique's Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3gr00&layout=compact&theme=radical" alt="Top Languages" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3gr00&show_icons=true&theme=tokyonight" alt="Enrique's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3gr00&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
