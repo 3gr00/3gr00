@@ -22,8 +22,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=3gr00&show_icons=true&theme=tokyonight" alt="Enrique's GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=3gr00&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3gr00&theme=tokyonight" alt="Enrique's GitHub Streak" />
 </p>
 
 ---
